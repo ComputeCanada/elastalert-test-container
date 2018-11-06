@@ -1,4 +1,4 @@
-# ea-testainer
+# elastalert-test-container
 
 ElastAlert test container for testing new ElastAlert rules and updates.  Contains the required applications for running our syntax tests.
 
